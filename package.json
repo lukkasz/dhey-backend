@@ -1,0 +1,17 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Some boilerplate for a take-home code challenge.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --watch"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cors": "^2.8.5",
+    "express": "4.17.1",
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2"
+  }
+}
